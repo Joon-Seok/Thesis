@@ -1,8 +1,8 @@
 ---
-title: "usage"
+title: "anonymity"
 bg: '#63BD2F'
 color: white
-fa-icon: plug
+fa-icon: user-secret
 ---
 
 Alright, you've got a clean copy and are ready to push some schmancy pages for the world to ogle at.

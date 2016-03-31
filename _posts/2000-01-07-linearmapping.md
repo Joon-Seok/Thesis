@@ -1,8 +1,8 @@
 ---
-title: "video"
+title: "linear mapping"
 bg: turquoise
 color: white
-fa-icon: film
+fa-icon: map-o
 ---
 
 Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.

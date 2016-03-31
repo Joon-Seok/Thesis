@@ -1,8 +1,8 @@
 ---
-title: "setup details"
-bg: orange
-color: black
-fa-icon: toggle-on
+title: "experiments"
+bg: black
+color: white
+fa-icon: line-chart
 ---
 
 ## Setup as user homepage

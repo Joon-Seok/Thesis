@@ -18,6 +18,7 @@ highlighter: rouge
 title:       "SinglePaged - Simple Jekyll template"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+baseurl: "/Thesis"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"

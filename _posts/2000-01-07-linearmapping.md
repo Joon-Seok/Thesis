@@ -15,13 +15,20 @@ fa-icon: map-o
 
 ### Linear mapping using H-Graph
 
-Algorithm
+Partitioning and generating H-Graph
 
-{% highlight html linenos=table %}
+![H-Graph]({{ site.url }}/img/hgraph.png)
 
-candidiate = MinimumDistanceSum(G);
 
-{% endhighlight %}
+Linear mapping algorithm
 
+- Traverse all nodes from the root node
+- For each subgraph
+  - Find candidates of orderings with the minimum sum of indoor distance
+  - Choose the ordering connected to outer edges
+
+![Linear mapping]({{ site.url }}/img/linearmapping.png)
+
+![Linear mapping result]({{ site.url }}/img/linearmapping2.png)
 
 

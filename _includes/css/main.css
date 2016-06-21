@@ -32,20 +32,22 @@ code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
 
 /* spesifically inline code */
 code {
-  background: rgba(255,255,255,0.2);
+  background: rgba(255,255,255,0.1);
   display: inline;
   word-wrap: break-word;
 }
 
 /* block code */
-pre code { background: none; display: block; }
-pre {
+/* pre code { background: none; display: block; } */
+
+.highlight pre code pre {
   display: block;
-  margin: 20px 5%;
-  padding: 4px 8px;
-  background: rgba(255,255,255,0.1);
+  margin: 10px 10px;
+  padding: 4px 4px;
+/*  background: rgba(255,255,255,0.1); */
   word-wrap: break-word;
 }
+
 
 .highlighttable { margin:20px 5%; }
 

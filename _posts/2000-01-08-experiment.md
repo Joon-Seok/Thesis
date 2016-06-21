@@ -41,7 +41,7 @@ fa-icon: bar-chart
 | avg. degree        |   2.4  |
 {: .striped .center}
 
-![Building]({{ site.url }}/img/basegraph.png)
+<img src="{{site.url}}img/basegraph.png">
 {: .center}
 
 #### **Feature of Avenuel building dataset**
@@ -56,7 +56,7 @@ fa-icon: bar-chart
 {: .striped .center}
 
 
-![Lotte]({{ site.url }}/img/lotte.png)
+<img src="{{site.url}}img/lotte.png">
 {: .center}
 
 -------------------------
@@ -79,37 +79,41 @@ fa-icon: bar-chart
 
 ## Characteristics of H-Graphs
 
-![Experiment 1]({{ site.url }}/img/experiment-1.png)
+<img src="{{site.url}}img/experiment-1.png">
 
 -------------------------
 
 
 ## Analysis of Resilience against Attacks
 
-![Experiment 2]({{ site.url }}/img/experiment-2.png)
-![Experiment 3]({{ site.url }}/img/experiment-3.png)
+<img src="{{site.url}}img/experiment-2.png">
+
+<img src="{{site.url}}img/experiment-3.png">
 
 -------------------------
 
 ## Analysis of K-Anonymization at the Anonymizer
 
 
-![Experiment 4]({{ site.url }}/img/experiment-4.png)
-![Experiment 5]({{ site.url }}/img/experiment-5.png)
+<img src="{{site.url}}img/experiment-4.png">
+
+<img src="{{site.url}}img/experiment-5.png">
 
 ---
 
 ## Analysis of Query Processing with the ASR at the LSP
 
-![Experiment 6]({{ site.url }}/img/experiment-6.png)
-![Experiment 7]({{ site.url }}/img/experiment-7.png)
+<img src="{{site.url}}img/experiment-6.png">
+
+<img src="{{site.url}}img/experiment-7.png">
 
 ---
 
 ## Analysis of Linear Mapping
 
-![Experiment 8]({{ site.url }}/img/experiment-8.png)
-![Experiment 9]({{ site.url }}/img/experiment-9.png)
+<img src="{{site.url}}img/experiment-8.png">
+
+<img src="{{site.url}}img/experiment-9.png">
 
 
 

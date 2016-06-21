@@ -15,7 +15,7 @@ We imploy a trusted third party (TTP) system between clients and LSPs to support
 4. The anonymizer filters out candidates and sends back the actual results to the client.
 
 
-![system architeucture]({{ site.url }}/img/system_architecture.png)
+<img src="{{site.url}}img/system_architecture.png">
 
 ## Requirements for ASR Extension
 
@@ -47,7 +47,7 @@ In order to satisfy K-anonymity, extend ASR from the leaf node where the request
 
 In order to reduce exponential enlargement of ASR of KAH, randomly select cells in ASR of KAH.
 
-![KAHR]({{ site.url }}/img/kahr.png)
+<img src="{{site.url}}img/kahr.png">
 
 
 ### KAO
@@ -64,6 +64,6 @@ Process of KAO
 3. Find all the cells containing users in the buckets
 4. Unite the cells as an ASR 
 
-![KAO]({{ site.url }}/img/kao.png)
+<img src="{{site.url}}img/kao.png">
 
 

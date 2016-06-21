@@ -17,7 +17,7 @@ fa-icon: map-o
 
 Partitioning and generating H-Graph
 
-![H-Graph]({{ site.url }}/img/hgraph.png)
+<img src="{{site.url}}img/hgraph.png">
 
 
 Linear mapping algorithm
@@ -27,8 +27,8 @@ Linear mapping algorithm
   - Find candidates of orderings with the minimum sum of indoor distance
   - Choose the ordering connected to outer edges
 
-![Linear mapping]({{ site.url }}/img/linearmapping.png)
+<img src="{{site.url}}img/linearmapping.png">
 
-![Linear mapping result]({{ site.url }}/img/linearmapping2.png)
+<img src="{{site.url}}img/linearmapping2.png">
 
 

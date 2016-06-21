@@ -40,7 +40,7 @@ Hierarchical graphs (H-Graph) are a proper data structure to reflect indoor char
 
 In order to satisfy K-anonymity, extend ASR from the leaf node where the requester is located.
 
-![KAH]({{ site.url }}/img/kah.png)
+![KAH]({{ site.url }}img/kah.png)
 
 
 ### KAHR

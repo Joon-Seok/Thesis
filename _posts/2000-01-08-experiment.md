@@ -86,7 +86,11 @@ fa-icon: bar-chart
 
 ## Analysis of Resilience against Attacks
 
+Center-of-ASR attack
+
 <img src="{{site.url}}img/experiment-2.png">
+
+Replay attack
 
 <img src="{{site.url}}img/experiment-3.png">
 

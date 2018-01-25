@@ -12,6 +12,7 @@ timezone: null
 lsi: false
 markdown: kramdown
 highlighter: rouge
+url: "https://joon-seok.github.io/Thesis/"
 
 
 ### content configuration ###
